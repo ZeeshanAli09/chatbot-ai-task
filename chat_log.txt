@@ -1,0 +1,30 @@
+User: quit
+Bot: Goodbye! Have a great day.
+
+User: Hello
+Bot: Hello! How can I help you today?
+
+User: what's your name?
+Bot: I'm your AI assistant.
+
+User: How are you?
+Bot: I'm doing well, thank you!
+
+User: bye
+Bot: Goodbye! Have a great day.
+
+User: quit
+Bot: Goodbye! Have a great day.
+
+User: Hello
+Bot: Hello! How can I help you today?
+
+User: what's your name?
+Bot: I'm your AI assistant.
+
+User: How are your?
+Bot: I'm doing well, thank you!
+
+User: quit
+Bot: Goodbye! Have a great day.
+
